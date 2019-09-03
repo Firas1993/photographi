@@ -1,0 +1,8 @@
+.toolbar-flex {
+  flex: 1 0.5 auto;
+}
+
+nav mat-tab-group{
+  padding-inline-start: 15%;
+  padding-inline-end: 15%;
+}
